@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cell()
+comment1.params=x\ y
+comment1.target=Cell(int,\ int)
+comment2.params=x\ y\ isAlive
+comment2.target=Cell(int,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ change_isAlive()
+comment4.params=b
+comment4.target=void\ set_isAlive(boolean)
+comment5.params=
+comment5.target=boolean\ get_isAlive()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

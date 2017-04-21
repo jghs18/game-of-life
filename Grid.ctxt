@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grid()
+comment1.params=
+comment1.target=int\ getW()
+comment10.params=
+comment10.target=void\ populate_grid()
+comment2.params=
+comment2.target=void\ output_living()
+comment3.params=
+comment3.target=int\ getH()
+comment4.params=x\ y
+comment4.target=boolean\ get_cell_status(int,\ int)
+comment5.params=x\ y\ status
+comment5.target=void\ set_cell_status(int,\ int,\ boolean)
+comment6.params=
+comment6.target=void\ output_grid()
+comment7.params=x\ y
+comment7.target=int\ count_neighbors(int,\ int)
+comment8.params=
+comment8.target=Cell[][]\ get_Grid()
+comment9.params=
+comment9.target=void\ play_life()
+numComments=11
